@@ -1,4 +1,4 @@
-val daffa_muhtar = developer {
+
     about {
         name = "Daffa Zuhdan Muhtar",
         company = "Fleetify.id",
@@ -24,5 +24,4 @@ val daffa_muhtar = developer {
         swift,
     )
     
-}
 
